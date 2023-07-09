@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+.card:hover{
+  scale: 0.9;
+ 
+  border: 2px solid white;
+  transition: 0.2s ease-in-out;
+}
+
+.errorpg{
+  margin: auto;
+  width: 550px;
+  height: 550px;
+}
+
+.aboutimg{
+  margin: auto;
+  width: 850px;
+  height: 850px;
+}
+
+img{
+
+  width: 300px;
+  height: 300px;
+}

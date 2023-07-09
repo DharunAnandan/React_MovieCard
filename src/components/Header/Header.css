@@ -1,0 +1,26 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: rgb(42, 160, 207);
+    /* margin: 10px; */
+    background-color: black;
+    padding: 10px;
+}
+.nav{
+    display: flex;
+    color: rgb(72, 153, 207);
+    margin-right: 10px;
+}
+.nav h3{
+    margin-right: 10px;
+}
+
+.nav h3 a{
+    text-decoration: "none" !important;
+    color: rgb(42, 160, 207);
+}
+
+.nav h3 a[href='#footer'] {
+    text-decoration: none;
+  }

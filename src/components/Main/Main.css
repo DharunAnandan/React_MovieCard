@@ -1,0 +1,21 @@
+body{
+    background-color: #a4e3f7;
+
+}
+.maincontent{
+    /* background-position: center; */
+    /* margin-top: 0; */
+    /* background-image: url("https://miro.medium.com/v2/resize:fit:0/1*y6C4nSvy2Woe0m7bWEn4BA.png"); */
+    color: aliceblue;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-color: #a4e3f7;
+}
+.batman h1{
+    margin: 0;
+    background: linear-gradient(to right, #eae8e8, #15041f);
+     -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}

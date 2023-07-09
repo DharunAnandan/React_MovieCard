@@ -1,0 +1,12 @@
+.login{
+    display: flex;
+    flex-direction: row;
+    min-height: 100vh;
+    background: rgb(2,0,36);
+    background: linear-gradient(-190deg, rgba(2,0,36,1) 0%, rgba(12,143,198,1) 47%, rgba(2,137,164,1) 100%);
+    
+    align-items: center;
+    justify-content: center;
+}
+
+
